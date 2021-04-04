@@ -1,3 +1,3 @@
 # Python-Data-Science-Projects
 
-A portfolio of data science project using Python Libraries
+A portfolio of toy data science project using Python Libraries
